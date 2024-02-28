@@ -36,5 +36,5 @@ THEN I am able to successfully create and delete reactions to thoughts and add a
 
 ## Links
 - [Github repo](https://github.com/Jakkiexplore/NONESQL)
-- [Walkthrough Video]()
+- [Walkthrough Video](https://drive.google.com/file/d/1nN43Oc4eXev4fhAg_2Zqz5XyNl-m0tJC/view)
 
