@@ -28,10 +28,8 @@ THEN I am able to successfully create and delete reactions to thoughts and add a
 - [Links](#links)
 
 ## Screenshots
-![]()
-![]()
-![]()
-![]()
+![thoughtController](./assets/images/thoughtcontroller.png)
+![Get routes](./assets/images/GEt%20routes.png)
 
 
 ## Links
