@@ -1,0 +1,22 @@
+{
+  "name": "api-social-app",
+  "version": "1.0.0",
+  "description": "\"\"",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Jakkiexplore/NONESQL.git"
+  },
+  "keywords": [
+    "\"\""
+  ],
+  "author": "Jakki",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Jakkiexplore/NONESQL/issues"
+  },
+  "homepage": "https://github.com/Jakkiexplore/NONESQL#readme"
+}
